@@ -1,2 +1,2 @@
 # ColorfulLoadingCSS
-![Alt text](/loader.png)
+![ScreenShot](/loader.PNG) 
